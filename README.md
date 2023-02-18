@@ -8,15 +8,15 @@ This python script will amend the given images using [DALL.E 2](https://openai.c
 + Python 3.8
 + Internet
 + OpenAI API Key
- + *Create an Open AI account*
- + *Login to Open AI account with your credentials*
- + *Click on **Personal** at the top right corner of your Open AI account.*
- + *Click on **View API Keys**.*
- + *Click on **Create New Secret Key**.*
- + *Copy your API Key in the code in this line as shown.*
- + ```
- openai.api_key = "Here paste the API key"
- + ```
+  + *Create an Open AI account*
+  + *Login to Open AI account with your credentials*
+  + *Click on **Personal** at the top right corner of your Open AI account.*
+  + *Click on **View API Keys**.*
+  + *Click on **Create New Secret Key**.*
+  + *Copy your API Key and paste it in this line of **ImagesAI.py** as shown.*
+   ```
+   openai.api_key = "Here paste the API key"
+   ```
 
 + Python3.8-PIP
 ```
