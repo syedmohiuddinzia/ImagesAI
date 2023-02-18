@@ -39,4 +39,4 @@ python3.8 ImagesAI.py
 ```
 
 ## CUSTOM IMAGES
-**Download images as much you want and copy them to [Images]() direcory. Now run the python script.**
+**Download images as much you want and copy them to [Images](https://github.com/syedmohiuddinzia/ImagesAI/tree/main/images) direcory. Now run the python script.**
