@@ -2,7 +2,10 @@
 This python script will amend the given images using [DALL.E 2](https://openai.com/dall-e-2/) </br>
 
 ## Demo - Image1
-![Image1](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/ImageAI/18-02-2023-20:14-ImageAI/1.png)
+![Image1](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/DemoImage/Demo1.png)
+![Image2](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/DemoImage/Demo2.png)
+![Image3](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/DemoImage/Demo3.png)
+![Image4](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/DemoImage/Demo4.png)
 
 ## DALL.E 2
 **DALL-E 2 are deep learning models developed by [OpenAI]() to generate digital images from natural language descriptions, called "prompts". DALL-E was revealed by OpenAI in a blog post in January 2021, and uses a version of GPT-3 modified to generate images. In April 2022, OpenAI announced DALL-E 2, a successor designed to generate more realistic images at higher resolutions that "can combine concepts, attributes, and styles".**
