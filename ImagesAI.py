@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "<API------------------------KEY>"
 from PIL import Image
 import os
 import wget
