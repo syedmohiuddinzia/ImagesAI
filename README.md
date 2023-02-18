@@ -15,7 +15,7 @@ This python script will amend the given images using [DALL.E 2](https://openai.c
  + *Click on **Create New Secret Key**.*
  + *Copy your API Key in the code in this line as shown.*
  + ```
- + openai.api_key = "Here paste the API key"
+ openai.api_key = "Here paste the API key"
  + ```
 
 + Python3.8-PIP
