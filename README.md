@@ -1,6 +1,10 @@
 # ImagesAI
 This python script will amend the given images using [DALL.E 2](https://openai.com/dall-e-2/) </br>
 
+## Demo - Image1
+![Image1](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/ImageAI/18-02-2023-20:14-ImageAI/1.png)
+![ImageAI1](https://github.com/syedmohiuddinzia/ImagesAI/blob/main/ImageAI/18-02-2023-20:14-ImageAI/1AI.png)
+
 ## DALL.E 2
 **DALL-E 2 are deep learning models developed by [OpenAI]() to generate digital images from natural language descriptions, called "prompts". DALL-E was revealed by OpenAI in a blog post in January 2021, and uses a version of GPT-3 modified to generate images. In April 2022, OpenAI announced DALL-E 2, a successor designed to generate more realistic images at higher resolutions that "can combine concepts, attributes, and styles".**
 
@@ -14,9 +18,9 @@ This python script will amend the given images using [DALL.E 2](https://openai.c
   + *Click on **View API Keys**.*
   + *Click on **Create New Secret Key**.*
   + *Copy your API Key and paste it in this line of **ImagesAI.py** as shown.*
-   ```
-   openai.api_key = "Here paste the API key"
-   ```
+     ```
+     openai.api_key = "Here paste the API key"
+     ```
 
 + Python3.8-PIP
 ```
@@ -27,7 +31,6 @@ sudo apt install python3.8-pip
 python3.8 -m pip install pillow
 python3.8 -m pip install wget
 python3.8 -m pip install openai
-
 ```
 + GIT
 ```
