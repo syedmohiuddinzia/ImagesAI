@@ -17,7 +17,26 @@ sudo apt install python3.8-pip
 python3.8 -m pip install pillow
 python3.8 -m pip install wget
 python3.8 -m pip install openai
+
+```
++ GIT
+```
+ sudo apt-get install git 
 ```
 
+## WORKING
++ Clone the repository
+```
+git clone https://github.com/syedmohiuddinzia/ImagesAI
+```
++ Open the directory
+```
+cd ~/ImageAI/
+```
++ Run ImagesAI.py
+```
+python3.8 ImagesAI.py
+```
 
-
+## CUSTOM IMAGES
+**Download images as much you want and copy them to [Images]() direcory. Now run the python script.**
